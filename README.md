@@ -1,2 +1,3 @@
-# github_day1
-git  day 1
+# first class on git
+
+this is my firt class on git
